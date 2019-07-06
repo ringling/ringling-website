@@ -1,4 +1,5 @@
 .DS_Store
 /_site
 
+# Including Gemfile.lock will cause error in netlify build
 Gemfile.lock
