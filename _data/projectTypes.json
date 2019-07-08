@@ -1,0 +1,27 @@
+[
+  {
+    "title": "All",
+    "class": "active",
+    "filter": "*"
+  },
+  {
+    "title": "Photography",
+    "filter": "photography"
+  },
+  {
+    "title": "Logo",
+    "filter": "logo"
+  },
+  {
+    "title": "Graphics",
+    "filter": "graphics"
+  },
+  {
+    "title": "Advertising",
+    "filter": "ads"
+  },
+  {
+    "title": "Fashion",
+    "filter": "fashion"
+  }
+]
