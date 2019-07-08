@@ -1,72 +1,65 @@
 [
   {
-    "id": "animated1",
+    "id": "demo01",
     "type": "ads",
     "image": "img/portfolio/03.jpg",
     "title": "<span>Floating mockups</span> <em>Ads / Graphics</em>",
     "content": "01 content"
   },
   {
-    "id": "animated2",
+    "id": "demo02",
     "type": "fashion logo",
     "image": "img/portfolio/01.jpg",
     "title": "<span>Mockups in seconds</span> <em>Fashion / Logo</em>",
     "content": "02 content"
   },
   {
-    "id": "animated3",
+    "id": "demo03",
     "type": "ads graphics",
     "image": "img/portfolio/03.jpg",
     "title": "<span>Floating mockups</span> <em>Ads / Graphics</em>",
     "content": "03 content"
   },
   {
-    "id": "animated4",
+    "id": "demo04",
     "type": "photography",
     "image": "img/portfolio/02.jpg",
     "title": "<span>Photorealistic smartwatch</span> <em>Photography</em>",
     "content": "04 content"
   },
   {
-    "id": "animated5",
+    "id": "demo05",
     "type": "fashion ads",
     "image": "img/portfolio/04.jpg",
     "title": "<span>Held by hands</span> <em>Fashion / Ads</em>",
     "content": "05 content"
   },
   {
-    "id": "animated6",
+    "id": "demo06",
     "type": "graphics ads",
     "image": "img/portfolio/05.jpg",
     "title": "<span>Mobile devices</span> <em>Graphics / Ads</em>",
     "content": "06 content"
   },
   {
-    "id": "animated7",
+    "id": "demo07",
     "type": "photography",
     "image": "img/portfolio/010.jpg",
     "title": "<span>Photorealistic smartwatch</span> <em>Photography</em>",
     "content": "07 content"
   },
   {
-    "id": "animated8",
+    "id": "demo08",
     "type": "graphics ads",
     "image": "img/portfolio/06.jpg",
     "title": "<span>Mobile devices</span> <em>Graphics / Ads</em>",
     "content": "08 content"
   },
   {
-    "id": "animated9",
+    "id": "demo09",
     "type": "graphics ads",
     "image": "img/portfolio/07.jpg",
     "title": "<span>Mobile devices</span> <em>Graphics / Ads</em>",
     "content": "9 content"
-  },
-  {
-    "id": "animated10",
-    "type": "graphics ads",
-    "image": "img/portfolio/08.jpg",
-    "title": "<span>Mobile devices</span> <em>Graphics / Ads</em>",
-    "content": "10 content"
   }
 ]
