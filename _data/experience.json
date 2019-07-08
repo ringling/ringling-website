@@ -1,0 +1,59 @@
+[
+  {
+    "timeSpan": "April 2018 - June 2019",
+    "companyName": "Danske Spil A/S",
+    "companyLogo": "img/ds.png",
+    "title": "Freelance consultant",
+    "roles": "Agile Coach and Scrum Master", 
+    "description": "Lorem ipsum...</p>"
+  },
+  {
+    "timeSpan": "December 2017 - Present",
+    "companyName": "PrivacyTree",
+    "companyLogo": "img/privactree_logo.png",
+    "title": "Partner",
+    "roles": "SW Architecture, Development, UI", 
+    "description": "Lorem ipsum...</p>"
+  },
+  {
+    "timeSpan": "Januar 2017 - December 2017",
+    "companyName": "MP Pension",
+    "companyLogo": "img/mp.png",
+    "title": "Freelance consultant",
+    "roles": "Agile Coach and Scrum Master", 
+    "description": "Lorem ipsum...</p>"
+  },
+  {
+    "timeSpan": "May 2016 - November 2016",
+    "companyName": "Nykredit",
+    "companyLogo": "img/nykredit.png",
+    "title": "Freelance consultant",
+    "roles": "Software developer", 
+    "description": "Lorem ipsum...</p>"
+  },
+  {
+    "timeSpan": "January 2016 - April 2016",
+    "companyName": "Widex A/S",
+    "companyLogo": "img/widex.png",
+    "title": "Freelance consultant",
+    "roles": "Solution delivery manager", 
+    "description": "Lorem ipsum...</p>"
+  },
+
+  {
+    "timeSpan": "May 2015 - December 2015",
+    "companyName": "Widex A/S",
+    "companyLogo": "img/macellum.png",
+    "title": "Partner",
+    "roles": "Lorem ipsum...", 
+    "description": "Lorem ipsum...</p>"
+  },
+  {
+    "timeSpan": "February 2012 - May 2015",
+    "companyName": "Lokalebasen.dk A/S",
+    "companyLogo": "img/lb.png",
+    "title": "Freelance consultant",
+    "roles": "Product Owner, Scrum Master, Architect, Software Developer", 
+    "description": "Lorem ipsum...</p>"
+  }
+]
